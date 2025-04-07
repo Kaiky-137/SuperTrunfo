@@ -6,7 +6,7 @@ int main (){
     char estado1 = 'A';                                                 //Letra de A a H
     char codigoCarta1[4] = "A01";                                       // Ex: A01, B01
     char nomeCidade1[50] = "Jacarei";                                   // Nome da cidade
-    int populacao1 = 3000000;                                           // Quantidade de habitantes
+    unsigned long int populacao1 = 3000000;                                           // Quantidade de habitantes
     float area1 = 464.3;                                                // Área em Km2
     float pib1 = 1400000.0;                                             // Produto Interno Bruto
     int pontosTuristicos1 = 3;                                          // Pontos turisticos totais
@@ -19,7 +19,7 @@ int main (){
     char estado2 = 'B';                                                 //Letra de A a H
     char codigoCarta2[4] = "B01";                                       // Ex: A01 e B01
     char nomeCidade2[50] = "Tiradentes";                                // Nome da cidade
-    int populacao2 = 80000;                                             // Quantidade de habitantes
+    unsigned long int populacao2 = 80000;                                             // Quantidade de habitantes
     float area2 = 83.0;                                                 // Área em Km2
     float pib2 = 20000000.0;                                            // Produto Interno Bruto
     int pontosTuristicos2 = 16;                                         // Pontos turisticos totais
